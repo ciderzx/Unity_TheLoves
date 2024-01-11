@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 3ed93be858e12f34fae497f72656e63e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PauseAnimation_0
+  - first:
+      213: 21300002
+    second: PauseAnimation_1
+  - first:
+      213: 21300004
+    second: PauseAnimation_2
+  - first:
+      213: 21300006
+    second: PauseAnimation_3
+  - first:
+      213: 21300008
+    second: PauseAnimation_4
+  - first:
+      213: 21300010
+    second: PauseAnimation_5
+  - first:
+      213: 21300012
+    second: PauseAnimation_6
+  - first:
+      213: 21300014
+    second: PauseAnimation_7
+  - first:
+      213: 21300016
+    second: PauseAnimation_8
+  - first:
+      213: 21300018
+    second: PauseAnimation_9
+  - first:
+      213: 21300020
+    second: PauseAnimation_10
+  - first:
+      213: 21300022
+    second: PauseAnimation_11
+  - first:
+      213: 21300024
+    second: PauseAnimation_12
+  - first:
+      213: 21300026
+    second: PauseAnimation_13
+  - first:
+      213: 21300028
+    second: PauseAnimation_14
+  - first:
+      213: 21300030
+    second: PauseAnimation_15
+  - first:
+      213: 21300032
+    second: PauseAnimation_16
+  - first:
+      213: 21300034
+    second: PauseAnimation_17
+  - first:
+      213: 21300036
+    second: PauseAnimation_18
+  - first:
+      213: 21300038
+    second: PauseAnimation_19
+  - first:
+      213: 21300040
+    second: PauseAnimation_20
+  - first:
+      213: 21300042
+    second: PauseAnimation_21
+  - first:
+      213: 21300044
+    second: PauseAnimation_22
+  - first:
+      213: 21300046
+    second: PauseAnimation_23
+  - first:
+      213: 21300048
+    second: PauseAnimation_24
+  - first:
+      213: 21300050
+    second: PauseAnimation_25
+  - first:
+      213: 21300052
+    second: PauseAnimation_26
+  - first:
+      213: 21300054
+    second: PauseAnimation_27
+  - first:
+      213: 21300056
+    second: PauseAnimation_28
+  - first:
+      213: 21300058
+    second: PauseAnimation_29
+  - first:
+      213: 21300060
+    second: PauseAnimation_30
+  - first:
+      213: 21300062
+    second: PauseAnimation_31
+  - first:
+      213: 21300064
+    second: PauseAnimation_32
+  - first:
+      213: 21300066
+    second: PauseAnimation_33
+  - first:
+      213: 21300068
+    second: PauseAnimation_34
+  - first:
+      213: 21300070
+    second: PauseAnimation_35
+  - first:
+      213: 21300072
+    second: PauseAnimation_36
+  - first:
+      213: 21300074
+    second: PauseAnimation_37
+  - first:
+      213: 21300076
+    second: PauseAnimation_38
+  - first:
+      213: 21300078
+    second: PauseAnimation_39
+  - first:
+      213: 21300080
+    second: PauseAnimation_40
+  - first:
+      213: 21300082
+    second: PauseAnimation_41
+  - first:
+      213: 21300084
+    second: PauseAnimation_42
+  - first:
+      213: 21300086
+    second: PauseAnimation_43
+  - first:
+      213: 21300088
+    second: PauseAnimation_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PauseAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4160
+        width: 294
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8185010eab3ef94db4b46b26aa52ff3
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 4160
+        width: 295
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6a0c1f2bee4e40a5350a072aaf87d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 4162
+        width: 295
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca65be2a3a9a247bd59238b26bb5be
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 4162
+        width: 295
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb5748723139b44bf9bffd250f7ff6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 4163
+        width: 296
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd23647f2ebc847a1b680a2bdb408a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 4165
+        width: 296
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefa2f2ed87e2a43b001a90d723e72d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 4168
+        width: 296
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc1fc37c28ced488fb70b67efc45d5
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 5853
+        y: 4171
+        width: 295
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c323044977044a84674ab85b7ff76
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3372
+        width: 296
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaea03ac0c049a44938c5f7394715e4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 3374
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fda4e1190dceb64c9d2b03ffb14d2ec
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 3377
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9535d4c7a4542f45bed2d2db91f3df0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 3381
+        width: 295
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed8b215f08bdd14b84f8db2ccbe559e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 3385
+        width: 294
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81cf87dc06667429ea9f163166cb00
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3388
+        width: 296
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939deb9246e3dd4787b7924f1a2bce8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 3390
+        width: 296
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a8214d8e4f9e46b32fee4a17a237b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 3393
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4643f4aa5b7f4e9f76fa1719c7b0c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2597
+        width: 295
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24ce74aaf43774b8742cd797e40eb0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2597
+        width: 296
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97927e0f01d54fb4cae01faa814e7a03
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2599
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe8b8e5e2e957b4c8ce3fd334dce5e2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2602
+        width: 296
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0cdeb24e9c2846b00a5e3dda4f8b9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 2602
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33125ae5f980441827d2aaa62790ea
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 2602
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1bc5b609c18b142857b23535f77d52
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 2602
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec041aae66d17f42b9e58c920f471a7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 2602
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0216bb103bda5c74690e0d2471516d79
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1802
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d703bf7118014548899e9a6d9a32b1b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1802
+        width: 296
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3e783900055d4399276aeb61047ab
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1799
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7fd61d5a0da1541a0ac539459c0473
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1799
+        width: 296
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b105f5c767e2d14daa5a86cbe394bfb
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1797
+        width: 295
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86549f4cf6a28e441a991f8e14b7ee8f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 1793
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018969a716e4084fa2dc487464c2531
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 1790
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6dbfa2187aa7542b2830e381d8f70f
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 1788
+        width: 296
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d196ddad2eda47b5e1e4d1c111239
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 987
+        width: 295
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf221cb837fbff4796e4c67b7db0ae4
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 984
+        width: 294
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c857b32db37d41baf7744cd225d3f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 981
+        width: 296
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79ed7f4dc486842b5b53c559954c01
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 977
+        width: 295
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7772ef95a4df4488788265f12ff443
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 974
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6447edf3402c64fae864c02a203ecc
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 972
+        width: 295
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27cf46180ac894a9f650d248b8dd35
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 968
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e435626c8e589f745b591fe74ea6e7da
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 965
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca6964b7d5a4b4f89aa81b662ac043
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 165
+        width: 296
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506c7168aeb3f243a8b96013b626689
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 162
+        width: 296
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e33798695fed42ac9a289b0729ae1
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 162
+        width: 295
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62922b5b751022c4a86f7899c45b3c49
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 162
+        width: 295
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa74f1315cb993498128a65523db6ef
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 160
+        width: 295
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4ab94b7097a64fa7f68d6934b070d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f385c6f7e1735647b2cbb41463c18a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

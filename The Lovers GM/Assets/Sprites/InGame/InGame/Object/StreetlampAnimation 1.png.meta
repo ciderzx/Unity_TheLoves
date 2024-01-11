@@ -1,0 +1,1988 @@
+fileFormatVersion: 2
+guid: 7331d29cd06c2ce4cb49c67bd1f78f31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StreetlampAnimation 1_0
+  - first:
+      213: 21300002
+    second: StreetlampAnimation 1_1
+  - first:
+      213: 21300004
+    second: StreetlampAnimation 1_2
+  - first:
+      213: 21300006
+    second: StreetlampAnimation 1_3
+  - first:
+      213: 21300008
+    second: StreetlampAnimation 1_4
+  - first:
+      213: 21300010
+    second: StreetlampAnimation 1_5
+  - first:
+      213: 21300012
+    second: StreetlampAnimation 1_6
+  - first:
+      213: 21300014
+    second: StreetlampAnimation 1_7
+  - first:
+      213: 21300016
+    second: StreetlampAnimation 1_8
+  - first:
+      213: 21300018
+    second: StreetlampAnimation 1_9
+  - first:
+      213: 21300020
+    second: StreetlampAnimation 1_10
+  - first:
+      213: 21300022
+    second: StreetlampAnimation 1_11
+  - first:
+      213: 21300024
+    second: StreetlampAnimation 1_12
+  - first:
+      213: 21300026
+    second: StreetlampAnimation 1_13
+  - first:
+      213: 21300028
+    second: StreetlampAnimation 1_14
+  - first:
+      213: 21300030
+    second: StreetlampAnimation 1_15
+  - first:
+      213: 21300032
+    second: StreetlampAnimation 1_16
+  - first:
+      213: 21300034
+    second: StreetlampAnimation 1_17
+  - first:
+      213: 21300036
+    second: StreetlampAnimation 1_18
+  - first:
+      213: 21300038
+    second: StreetlampAnimation 1_19
+  - first:
+      213: 21300040
+    second: StreetlampAnimation 1_20
+  - first:
+      213: 21300042
+    second: StreetlampAnimation 1_21
+  - first:
+      213: 21300044
+    second: StreetlampAnimation 1_22
+  - first:
+      213: 21300046
+    second: StreetlampAnimation 1_23
+  - first:
+      213: 21300048
+    second: StreetlampAnimation 1_24
+  - first:
+      213: 21300050
+    second: StreetlampAnimation 1_25
+  - first:
+      213: 21300052
+    second: StreetlampAnimation 1_26
+  - first:
+      213: 21300054
+    second: StreetlampAnimation 1_27
+  - first:
+      213: 21300056
+    second: StreetlampAnimation 1_28
+  - first:
+      213: 21300058
+    second: StreetlampAnimation 1_29
+  - first:
+      213: 21300060
+    second: StreetlampAnimation 1_30
+  - first:
+      213: 21300062
+    second: StreetlampAnimation 1_31
+  - first:
+      213: 21300064
+    second: StreetlampAnimation 1_32
+  - first:
+      213: 21300066
+    second: StreetlampAnimation 1_33
+  - first:
+      213: 21300068
+    second: StreetlampAnimation 1_34
+  - first:
+      213: 21300070
+    second: StreetlampAnimation 1_35
+  - first:
+      213: 21300072
+    second: StreetlampAnimation 1_36
+  - first:
+      213: 21300074
+    second: StreetlampAnimation 1_37
+  - first:
+      213: 21300076
+    second: StreetlampAnimation 1_38
+  - first:
+      213: 21300078
+    second: StreetlampAnimation 1_39
+  - first:
+      213: 21300080
+    second: StreetlampAnimation 1_40
+  - first:
+      213: 21300082
+    second: StreetlampAnimation 1_41
+  - first:
+      213: 21300084
+    second: StreetlampAnimation 1_42
+  - first:
+      213: 21300086
+    second: StreetlampAnimation 1_43
+  - first:
+      213: 21300088
+    second: StreetlampAnimation 1_44
+  - first:
+      213: 21300090
+    second: StreetlampAnimation 1_45
+  - first:
+      213: 21300092
+    second: StreetlampAnimation 1_46
+  - first:
+      213: 21300094
+    second: StreetlampAnimation 1_47
+  - first:
+      213: 21300096
+    second: StreetlampAnimation 1_48
+  - first:
+      213: 21300098
+    second: StreetlampAnimation 1_49
+  - first:
+      213: 21300100
+    second: StreetlampAnimation 1_50
+  - first:
+      213: 21300102
+    second: StreetlampAnimation 1_51
+  - first:
+      213: 21300104
+    second: StreetlampAnimation 1_52
+  - first:
+      213: 21300106
+    second: StreetlampAnimation 1_53
+  - first:
+      213: 21300108
+    second: StreetlampAnimation 1_54
+  - first:
+      213: 21300110
+    second: StreetlampAnimation 1_55
+  - first:
+      213: 21300112
+    second: StreetlampAnimation 1_56
+  - first:
+      213: 21300114
+    second: StreetlampAnimation 1_57
+  - first:
+      213: 21300116
+    second: StreetlampAnimation 1_58
+  - first:
+      213: 21300118
+    second: StreetlampAnimation 1_59
+  - first:
+      213: 21300120
+    second: StreetlampAnimation 1_60
+  - first:
+      213: 21300122
+    second: StreetlampAnimation 1_61
+  - first:
+      213: 21300124
+    second: StreetlampAnimation 1_62
+  - first:
+      213: 21300126
+    second: StreetlampAnimation 1_63
+  - first:
+      213: 21300128
+    second: StreetlampAnimation 1_64
+  - first:
+      213: 21300130
+    second: StreetlampAnimation 1_65
+  - first:
+      213: 21300132
+    second: StreetlampAnimation 1_66
+  - first:
+      213: 21300134
+    second: StreetlampAnimation 1_67
+  - first:
+      213: 21300136
+    second: StreetlampAnimation 1_68
+  - first:
+      213: 21300138
+    second: StreetlampAnimation 1_69
+  - first:
+      213: 21300140
+    second: StreetlampAnimation 1_70
+  - first:
+      213: 21300142
+    second: StreetlampAnimation 1_71
+  - first:
+      213: 21300144
+    second: StreetlampAnimation 1_72
+  - first:
+      213: 21300146
+    second: StreetlampAnimation 1_73
+  - first:
+      213: 21300148
+    second: StreetlampAnimation 1_74
+  - first:
+      213: 21300150
+    second: StreetlampAnimation 1_75
+  - first:
+      213: 21300152
+    second: StreetlampAnimation 1_76
+  - first:
+      213: 21300154
+    second: StreetlampAnimation 1_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_0
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12752
+        width: 664
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388df649d989ad748baac2e107a8cda7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_1
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 12752
+        width: 665
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7976b27b076877147b7bd11a1ea7fdea
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_2
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 12752
+        width: 663
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217809fbcd2f97e41b051ec16381eb58
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_3
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 12752
+        width: 663
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f64e89b03694a42a88a8e14cf35c32
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_4
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 12752
+        width: 663
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1628f5d46a8ba46b2f184217eb8538
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_5
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 12752
+        width: 663
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63f8ad24aeb1d45b82fb73586ff477
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_6
+      rect:
+        serializedVersion: 2
+        x: 7467
+        y: 12752
+        width: 663
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b507410dd46f7d4ba88f672f0012dcb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_7
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 12752
+        width: 664
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e53662a1433a4d98dc7776280d06b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 11351
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dfc7760dfbb6c4fa5be3b8dd02e32c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_9
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 11348
+        width: 665
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db4fac132817074095df630f20bb55c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_10
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 11351
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645528e99e11c76458c7bd8cf3a621f3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_11
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 11351
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74665be1b4df5947b71f4e01b94926c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_12
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 11351
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d95ddddd1b0bb4ca5ce9a0bcdbe603
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_13
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 11351
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63d9652b60f1a44985752fa70b0028
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_14
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 11351
+        width: 665
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c72163ea7f7c44ba91abfa7af658b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_15
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 11351
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a204daf8031e1a42a87fc322c7558bb
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 9950
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4e2b4670f75b4eb59fdf8153bacb0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_17
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 9950
+        width: 665
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f614d5544ca49947a9668ba2ed7b676
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_18
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 9950
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eefdc67800b0a44a688e9fca943bd3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_19
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 9950
+        width: 663
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c2c8c6452b1549a7bed2010a6d3c1
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_20
+      rect:
+        serializedVersion: 2
+        x: 5058
+        y: 9950
+        width: 680
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b388f0f801c9a4180a70a0091aab13
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_21
+      rect:
+        serializedVersion: 2
+        x: 6257
+        y: 9950
+        width: 685
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707cb296343c7154da32d379ec3e2827
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_22
+      rect:
+        serializedVersion: 2
+        x: 7460
+        y: 9950
+        width: 685
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbea027d7956ea4cb5956da96be8bfc
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_23
+      rect:
+        serializedVersion: 2
+        x: 8657
+        y: 9950
+        width: 692
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bdd2d2f7e3cb45969921980550d20
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 8549
+        width: 687
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94573ad57818354f804ce40ab9072e1
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 8549
+        width: 694
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a787ffcf4a239c408adeaeb4231bd3e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_26
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 8525
+        width: 694
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583dc9ac21974041ade20cb22fcaa7c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_27
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 8482
+        width: 692
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a413eebd10da45a1e35df3f04b903
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_28
+      rect:
+        serializedVersion: 2
+        x: 5058
+        y: 8482
+        width: 701
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423d9ec496220c4689bac5edf80c6da
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_29
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 8477
+        width: 735
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abec64b507e564bb925a2718a18b20
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_30
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 8475
+        width: 790
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c736111c6c4f43a42a0a2767245e1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_31
+      rect:
+        serializedVersion: 2
+        x: 8575
+        y: 8475
+        width: 862
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a230ad318238e2c43bf6472dcb80928e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7081
+        width: 933
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c3982dde7bf640bc35f65b3f37247
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_33
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 7081
+        width: 1006
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9282fbdb402f0d346b04f87889c4794f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_34
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 7076
+        width: 1081
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ded3739eb5c4945a3b85bc938ef0b5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_35
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 7076
+        width: 1134
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c2613b10f7a24f8ba3836dd1aeba7
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_36
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 7076
+        width: 1179
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a117d09ce716740a6173ac7e9a049a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_37
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 7076
+        width: 1184
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d6340ccb6e304ab9a82cabbc34f04
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_38
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 7076
+        width: 1193
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438aa9d226970c4babc7cbf2651550e
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_39
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 7076
+        width: 1186
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6913dce1e7e3ac419fbb74e1aa78e58
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5672
+        width: 1193
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c61c1594e16b2646ae8e9f9c0f335d7
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_41
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 5672
+        width: 1186
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26810ea08e635084e83929d983e4edd3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_42
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 5672
+        width: 1191
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47553a49c5e13b4f976035f4f897764
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_43
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 5672
+        width: 1184
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8a6437b30e6948bd80a5a5c0999d6
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_44
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 5672
+        width: 1189
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f6a6f92f8176949bcc47079c556923
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_45
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 5672
+        width: 1184
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f024e21a4ccc49bd3b772f8949251
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_46
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 5672
+        width: 1193
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3a5e7fe74ea240b17e6cd9332a48c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_47
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 5672
+        width: 1186
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af501abc49ec3c842a9586bf70a72aad
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4278
+        width: 1193
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2accfcf9fb916a4a907be6f02ee154d
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_49
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 4278
+        width: 1186
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769abdfe636d2b044a932ca0eb585d2a
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_50
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 4278
+        width: 1191
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b62952a9a2914ba9d88d5e121ecbe
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_51
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 4278
+        width: 1184
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de1f8df88436a549984f4d04dca8d19
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_52
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 4278
+        width: 1189
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ecff0eebb3c34f879f4ec5e29ad3a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_53
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 4278
+        width: 1184
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375cdc27ac50154fa508f7f7ec59993
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_54
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 4278
+        width: 1193
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b106aae68b9240a15214e2b82f9e6
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_55
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 4278
+        width: 1186
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfa22fd066c8248a14de6a7d1d8c52
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2876
+        width: 1193
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09149a5f2f215a468dbf0b3f3849f98
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_57
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2876
+        width: 1186
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b400eb31f1a3884f8c2aa0abf85b268
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_58
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 2876
+        width: 1191
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0a6e1eee67ce46b6ad915f980b780
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_59
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 2876
+        width: 1184
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081906c7a9a59a644bea5a0e0e2aa7ac
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_60
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 2876
+        width: 1189
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca083c59f4a2944909cdcd799f0e88
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_61
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 2876
+        width: 1184
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc109de63020b04aaab44e25ad4b359
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_62
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 2876
+        width: 1193
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7915fbcd64988904ebe1c7ac981f0606
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_63
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 2876
+        width: 1186
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2e0e85799ad54bae15043033b3718
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1475
+        width: 1193
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab616797350b5d48b50f6aaded98973
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_65
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1475
+        width: 1186
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6c0caeb9063446b615c74945e5930
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_66
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1475
+        width: 1191
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9aeed18ab010468fae77f65bb0867
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_67
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 1475
+        width: 1184
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355f074d4969ff40b6360f029a58f53
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_68
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 1475
+        width: 1189
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99207b2a22bcdc408437c188bf26f83
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_69
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 1475
+        width: 1184
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623499fa4ecaa94e86baadcf782a6ac
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_70
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 1475
+        width: 1193
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05e763a3dd75844936a213c9d4f76e
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_71
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 1475
+        width: 1186
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1a669c85443b44bf46f3dc7a36970
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 1193
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf24ed505b78a4a8fe19f7df1b284d
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_73
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 76
+        width: 1186
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf1fa17296a7b48a2c223bcf991ce8
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_74
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 76
+        width: 1191
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d75af04f05cf74ebd414a0021267f0
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_75
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 76
+        width: 1184
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4df8313540c7444945282dd5c7c5f3
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_76
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 76
+        width: 1189
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f32168e64fce074991ea3d58a378963
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StreetlampAnimation 1_77
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 76
+        width: 1184
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e743d6e99662f4dafc590a6cd5552e
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25e5069bafd53ca40a19171e5089679a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

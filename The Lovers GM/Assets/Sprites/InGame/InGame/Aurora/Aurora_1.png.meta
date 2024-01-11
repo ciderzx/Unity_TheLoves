@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: ae1fb36ad72f53a45adcfa78355495a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Aurora_1_0
+  - first:
+      213: 21300002
+    second: Aurora_1_1
+  - first:
+      213: 21300004
+    second: Aurora_1_2
+  - first:
+      213: 21300006
+    second: Aurora_1_3
+  - first:
+      213: 21300008
+    second: Aurora_1_4
+  - first:
+      213: 21300010
+    second: Aurora_1_5
+  - first:
+      213: 21300012
+    second: Aurora_1_6
+  - first:
+      213: 21300014
+    second: Aurora_1_7
+  - first:
+      213: 21300016
+    second: Aurora_1_8
+  - first:
+      213: 21300018
+    second: Aurora_1_9
+  - first:
+      213: 21300020
+    second: Aurora_1_10
+  - first:
+      213: 21300022
+    second: Aurora_1_11
+  - first:
+      213: 21300024
+    second: Aurora_1_12
+  - first:
+      213: 21300026
+    second: Aurora_1_13
+  - first:
+      213: 21300028
+    second: Aurora_1_14
+  - first:
+      213: 21300030
+    second: Aurora_1_15
+  - first:
+      213: 21300032
+    second: Aurora_1_16
+  - first:
+      213: 21300034
+    second: Aurora_1_17
+  - first:
+      213: 21300036
+    second: Aurora_1_18
+  - first:
+      213: 21300038
+    second: Aurora_1_19
+  - first:
+      213: 21300040
+    second: Aurora_1_20
+  - first:
+      213: 21300042
+    second: Aurora_1_21
+  - first:
+      213: 21300044
+    second: Aurora_1_22
+  - first:
+      213: 21300046
+    second: Aurora_1_23
+  - first:
+      213: 21300048
+    second: Aurora_1_24
+  - first:
+      213: 21300050
+    second: Aurora_1_25
+  - first:
+      213: 21300052
+    second: Aurora_1_26
+  - first:
+      213: 21300054
+    second: Aurora_1_27
+  - first:
+      213: 21300056
+    second: Aurora_1_28
+  - first:
+      213: 21300058
+    second: Aurora_1_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aurora_1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4539
+        width: 259
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426c14684cc64e478744db676f89645
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_1
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 4539
+        width: 257
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352661069c913a49af5b57d7a308ee5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_2
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 4539
+        width: 257
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4b0c4c5e163945819412c11ec1844
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_3
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 4539
+        width: 259
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f4a2b468673d488d7f88c5e05b0b8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_4
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 4539
+        width: 257
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df99448fc88bf14b9eba2720bd622dc
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_5
+      rect:
+        serializedVersion: 2
+        x: 9866
+        y: 4539
+        width: 258
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1682c694fbeea49ab976a6054ac6b1
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3408
+        width: 259
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2400e2f192be343b5724aa777fe50d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_7
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3408
+        width: 257
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e74f48b0d6524a858270de11191f3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_8
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 3408
+        width: 258
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2005a0f2cefe458030d20612fd7ea
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_9
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 3408
+        width: 259
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8bfcfed6479af49871a9bbcdb8fea2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_10
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 3408
+        width: 257
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6430573569e142b865d9c9fb20380
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_11
+      rect:
+        serializedVersion: 2
+        x: 9866
+        y: 3408
+        width: 258
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa33c427a02be64983fc1d72bdd441d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2277
+        width: 259
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4b81dc0199474799508b0295c16ca
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_13
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2277
+        width: 257
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f607ba7acbcce147ae831d2d1cee643
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_14
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 2277
+        width: 258
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0959eec073ea4fa8dd4aeb8f30cfb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_15
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 2277
+        width: 259
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32b111dc856bd4eac0380653f13885
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_16
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 2277
+        width: 257
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742f950f0346d64a9d6bd8ff257ef0e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_17
+      rect:
+        serializedVersion: 2
+        x: 9866
+        y: 2277
+        width: 258
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd83147abebc4e488c3d9f2c5d82be0
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1146
+        width: 259
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901cf26a308a614fb4ee8a127878298
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_19
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1146
+        width: 257
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc183e6a9a3064aba3674d5721ef7f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_20
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 1146
+        width: 258
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e463137d0ca334418f970db41f2451a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_21
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 1146
+        width: 259
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89421ba98585d43bfd0d6d29f61c89
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_22
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 1146
+        width: 257
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b734e076433d4f8929f13d55b2321
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_23
+      rect:
+        serializedVersion: 2
+        x: 9866
+        y: 1146
+        width: 258
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2465bc3ef3e974293e214ff5aad13e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 259
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccbc6d6f69c1d439318c59253e4af0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_25
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 20
+        width: 257
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073582f9c0901544b2bf69fa6c8a387
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_26
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 20
+        width: 258
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f18786de18af04493510bde22466ef
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_27
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 20
+        width: 259
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a980c047f2b92f24facd5ddc5709f10e
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_28
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 20
+        width: 257
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6b45a81d5efe4ba6e82ce0ecda23f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora_1_29
+      rect:
+        serializedVersion: 2
+        x: 9866
+        y: 20
+        width: 258
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09cb53ed4337e46ae8e174092bf99f
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d398d85b2849efb4ab11addc64bbc7ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
