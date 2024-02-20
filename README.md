@@ -10,6 +10,8 @@
 + 플랫폼 : Android
 + 조작 방식 : Touch Panel
 + 장르 : Story Game And Platformer
++ 이야기 내용 : 주인공 '한결'이가 여자친구인 '다솜'을 만나러 가는데, 여자친구가 사고를 당해 시간을 되돌려 여자친구를 구하는 이야기
++ 진행 방식 : 터치를 하면 좌우가 바뀌면서 방향을 바꿀 수 있는데, 다가오는 오로라를 피해 각 미션을 깨며 스토리를 진행하는 방식
 
 <br>
 
@@ -55,8 +57,18 @@
 <h2 align="left"> Project Summary </h2>
 
 <p align = "center">
-  <img width="40%" height="40%" align = "center" src="https://github.com/ciderzx/Unity_TheLoves/assets/66687236/d27f6f80-3ff4-400f-adbd-eddf85cd33b9"/>
+  <img width="70%" height="70%" align = "center" src="https://github.com/ciderzx/Unity_TheLoves/assets/66687236/d27f6f80-3ff4-400f-adbd-eddf85cd33b9"/>
 </p>
+
+기여도
++ 기획 : 30%  /  개발 : 65%
++ 해당프로젝트는 앞서 설명했듯, 외부 동아리인 ‘G a m e  M a k e r s’에 서
+  활동하여 개발한  ‘T h e  L o v e r s’ 입니다. 해당게임은 2D  P l a t f o r m e r 
+  게임으로 기획된 스토리를 토대로 개발 하였습니다. 
+  남자가 시간을 되돌릴 수 있는 능력을 가지고 자신의 여자를 구하는 
+  흐름으로 흘러가게 되는데 각종 난관과 퍼즐을 공략하여 
+  스테이지 별로 스토리가 전개가 됩니다.
+
 
 
 
