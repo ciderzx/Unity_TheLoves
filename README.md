@@ -52,6 +52,12 @@
 
 ---
 
-<h2 align="left"> Profile 2024 </h2>
+<h2 align="left"> Project Summary </h2>
+
+<p align = "center">
+  <img width="40%" height="40%" align = "center" src="https://github.com/ciderzx/Unity_TheLoves/assets/66687236/d27f6f80-3ff4-400f-adbd-eddf85cd33b9"/>
+</p>
+
+
 
 ---
